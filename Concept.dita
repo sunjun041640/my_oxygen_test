@@ -2,8 +2,8 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ev2_q5x_bwb">
     <title>first article test</title>
-    <shortdesc></shortdesc>
+    <shortdesc>aaa<p>Σ±</p>aaa</shortdesc>
     <conbody>
-        <p></p>
+        <p>ddddddddddddd</p>
     </conbody>
 </concept>
