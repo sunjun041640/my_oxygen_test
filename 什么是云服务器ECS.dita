@@ -46,8 +46,9 @@
             <title>test title</title>
             <p><apiname>apiname</apiname><ph conref="#concept_ev2_q5x_bwb/ph_jx3_qhm_cwb"
                     /><cmdname>cmdname</cmdname><codeph>code</codeph><xref
-                    href="#concept_ev2_q5x_bwb/ph_bxy_sdm_cwb"
-                >链接的自定义标题</xref><codeblock id="codeblock_ykj_42m_cwb">codeblock</codeblock></p>
+                    href="#concept_ev2_q5x_bwb/ph_bxy_sdm_cwb">链接的自定义标题</xref><xref
+                    href="#concept_ev2_q5x_bwb/section_k4g_fbm_cwb"
+                /><codeblock id="codeblock_ykj_42m_cwb">codeblock</codeblock></p>
         </section>
     </conbody>
 </concept>
