@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ev2_q5x_bwb">
+    <title><b>什么是云服务器ECS</b></title>
+    <shortdesc/>
+    <conbody>
+        <p>云服务器ECS（Elastic Compute Service）是阿里云提供的性能卓越、稳定可靠、弹性扩展的IaaS（Infrastructure as a
+            Service）级别云计算服务。云服务器ECS免去了您采购IT硬件的前期准备，让您像使用水、电、天然气等公共资源一样便捷、高效地使用服务器，实现计算资源的即开即用和弹性伸缩。阿里云ECS持续提供创新型服务器，解决多种业务需求，助力您的业务发展。</p>
+        <section id="section_k4g_fbm_cwb">
+            <title>为什么选择云服务器ECS</title>
+            <p id="p-ixp-uct-m9h">选择云服务器ECS，您可以轻松构建具有以下优势的计算资源：</p>
+            <ul id="ul-6ek-aa2-qhs">
+                <li id="li-4q1-ymr-vur">
+                    <p id="p-w3k-chb-qf0">无需自建机房，无需采购以及配置硬件设施。</p>
+                </li>
+                <li id="li-391-m47-06p">
+                    <p id="p-ouh-c0x-tdx">分钟级交付，快速部署，缩短应用上线周期。</p>
+                </li>
+                <li id="li-chv-721-kfq">
+                    <p id="p-if5-vj6-gnk">快速接入部署在全球范围内的数据中心和边界网关协议BGP（Border Gateway
+                        Protocol）机房。</p>
+                </li>
+                <li id="li-008-qga-buh">
+                    <p id="p-jr9-zmr-jtb">成本透明，按需使用，支持根据业务波动随时扩展和释放资源。</p>
+                </li>
+                <li id="li-x2h-djs-78o">
+                    <p id="p-quc-fog-brg">提供GPU和FPGA等异构计算服务器、弹性裸金属服务器以及通用的x86架构服务器。</p>
+                </li>
+                <li id="li-vvh-x8f-hil">
+                    <p id="p-upb-ps5-oyr">支持通过内网访问其他阿里云服务，形成丰富的行业解决方案，降低公网流量成本。</p>
+                </li>
+                <li id="li-vwr-bim-0xz">
+                    <p id="p-bwo-bd8-lzz">提供虚拟防火墙、角色权限控制、内网隔离、防病毒攻击及流量监控等多重安全方案。</p>
+                </li>
+                <li id="li-f24-1ax-gm7">
+                    <p id="p-olv-i1e-upi">提供性能监控框架和主动运维体系。</p>
+                </li>
+                <li id="li-22k-ntt-48f">
+                    <p id="p-ap5-86q-rfq">提供行业通用标准API，提高易用性和适用性。</p>
+                </li>
+            </ul>
+        </section>
+    </conbody>
+</concept>
