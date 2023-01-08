@@ -4,7 +4,7 @@
     <title>什么是云服务器ECS</title>
     <shortdesc/>
     <conbody>
-        <p id="p_vss_sdm_cwb">云服务器<ph>ECS（Elastic Compute
+        <p id="p_vss_sdm_cwb">云服务器<ph id="ph_q52_ygm_cwb">ECS（Elastic Compute
             Service）</ph>是阿里云提供的性能卓越、稳定可靠、弹性扩展的IaaS（Infrastructure as a Service）级别云计算服务。<ph
                 id="ph_bxy_sdm_cwb"
             >云服务器ECS</ph>免去了您采购IT硬件的前期准备，让您像使用水、电、天然气等公共资源一样便捷、高效地使用服务器，实现计算资源的即开即用和弹性伸缩。阿里云ECS持续提供创新型服务器，解决多种业务需求，助力您的业务发展。</p>
@@ -44,8 +44,8 @@
         </section>
         <section id="section_gzp_m2m_cwb">
             <title>test title</title>
-            <p><apiname>apiname</apiname><ph id="ph_sqt_p2m_cwb">ph</ph><cmdname
-                    id="cmdname_gyy_p2m_cwb"
+            <p><apiname>apiname</apiname><ph  >ph ecs</ph><cmdname
+                 
                 >cmdname</cmdname><codeph>code</codeph><codeblock id="codeblock_ykj_42m_cwb">codeblock</codeblock></p>
         </section>
     </conbody>
