@@ -42,5 +42,9 @@
                 </li>
             </ul>
         </section>
+        <section id="section_mmd_12m_cwb">
+            <title>test title</title>
+            <p><apiname>apiname</apiname><cmdname>cmdname</cmdname><codeph>code</codeph><codeblock id="codeblock_jmv_c2m_cwb">codeblock</codeblock></p>
+        </section>
     </conbody>
 </concept>
