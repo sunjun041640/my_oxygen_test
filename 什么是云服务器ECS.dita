@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ev2_q5x_bwb">
-    <title><b>什么是云服务器ECS</b></title>
+    <title>什么是云服务器ECS</title>
     <shortdesc/>
     <conbody>
         <p id="p_vss_sdm_cwb">云服务器<ph>ECS（Elastic Compute
@@ -42,9 +42,11 @@
                 </li>
             </ul>
         </section>
-        <section id="section_mmd_12m_cwb">
+        <section id="section_gzp_m2m_cwb">
             <title>test title</title>
-            <p><apiname>apiname</apiname><cmdname>cmdname</cmdname><codeph>code</codeph><codeblock id="codeblock_jmv_c2m_cwb">codeblock</codeblock></p>
+            <p><apiname>apiname</apiname><ph id="ph_sqt_p2m_cwb">ph</ph><cmdname
+                    id="cmdname_gyy_p2m_cwb"
+                >cmdname</cmdname><codeph>code</codeph><codeblock id="codeblock_ykj_42m_cwb">codeblock</codeblock></p>
         </section>
     </conbody>
 </concept>
